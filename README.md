@@ -1,2 +1,2 @@
 # Pari_Crypto_Scripts
-Just a bunch of scripts which explain some famous encryption schemes such as RSA and ELGAMAL.
+Just a pari bunch of scripts for speeding up some crypto calculations
