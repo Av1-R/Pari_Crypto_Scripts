@@ -1,2 +1,2 @@
 # Pari_Crypto_Scripts
-Just a pari bunch of scripts for speeding up some crypto calculations
+Just a pari bunch of scripts for speeding up some crypto calculations for an exam
